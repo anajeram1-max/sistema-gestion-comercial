@@ -1,0 +1,29 @@
+[
+    {
+        "codigo": "P001",
+        "nombre": "ARROZ BLANCO",
+        "categoria": "GRANOS BASICOS",
+        "precio": 28.0,
+        "cantidad": 128,
+        "stock_minimo": 15,
+        "activo": true
+    },
+    {
+        "codigo": "P003",
+        "nombre": "FRIJOL NEGRO",
+        "categoria": "GRANOS BASICOS",
+        "precio": 600.0,
+        "cantidad": 30,
+        "stock_minimo": 5,
+        "activo": true
+    },
+    {
+        "codigo": "P002",
+        "nombre": "MAIZ AMARILLO",
+        "categoria": "GRANOS BASICO",
+        "precio": 250.0,
+        "cantidad": 20,
+        "stock_minimo": 6,
+        "activo": true
+    }
+]

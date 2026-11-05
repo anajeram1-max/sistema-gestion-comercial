@@ -1,0 +1,55 @@
+[
+    {
+        "numero": 1,
+        "productos": [
+            {
+                "codigo": "P001",
+                "nombre": "ARROZ BLANCO",
+                "cantidad": 3,
+                "precio": 28.0,
+                "subtotal": 84.0
+            },
+            {
+                "codigo": "P001",
+                "nombre": "ARROZ BLANCO",
+                "cantidad": 5,
+                "precio": 28.0,
+                "subtotal": 140.0
+            }
+        ],
+        "subtotal": 224.0,
+        "iva": 26.88,
+        "total": 250.88
+    },
+    {
+        "numero": 2,
+        "productos": [
+            {
+                "codigo": "P001",
+                "nombre": "ARROZ BLANCO",
+                "cantidad": 2,
+                "precio": 28.0,
+                "subtotal": 56.0
+            }
+        ],
+        "subtotal": 56.0,
+        "iva": 6.72,
+        "total": 62.72
+    },
+    {
+        "numero": 3,
+        "fecha": "2026-11-04 22:18:49",
+        "productos": [
+            {
+                "codigo": "P002",
+                "nombre": "MAIZ AMARILLO",
+                "cantidad": 5,
+                "precio": 250.0,
+                "subtotal": 1250.0
+            }
+        ],
+        "subtotal": 1250.0,
+        "iva": 150.0,
+        "total": 1400.0
+    }
+]
